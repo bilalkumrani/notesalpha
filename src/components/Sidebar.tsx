@@ -14,7 +14,7 @@ function Sidebar({ activeTab }: props) {
             <div className='space-y-4'>
                 <Link href={'/'} className='flex h-12 items-center text-white gap-2 border-b p-4 border-gray-600'>
                     <Notepad2 variant='TwoTone' size={18} />
-                    <span>Next Gitnotes</span>
+                    <span>Notes Alpha</span>
                 </Link>
 
                 <div className='space-y-6 px-4'>
